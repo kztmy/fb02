@@ -37,14 +37,14 @@
 export default {
   data: function () {
     return {
-      drawer: false
+      drawer: false,
     };
   },
   methods: {
     hideDrawer: function () {
       this.drawer = false;
     },
-  }
+  },
 };
 </script>
 

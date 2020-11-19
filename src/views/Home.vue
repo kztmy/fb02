@@ -6,12 +6,12 @@
 
 <script>
 // @ is an alias to /src
-import MessageList from '@/components/MessageList.vue'
+import MessageList from "@/components/MessageList.vue";
 
 export default {
-  name: 'Home',
+  name: "Home",
   components: {
-    MessageList
-  }
-}
+    MessageList,
+  },
+};
 </script>
